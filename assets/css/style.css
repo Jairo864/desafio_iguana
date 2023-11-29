@@ -1,0 +1,90 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+color: white;
+
+}
+
+header h1{
+margin: 0px;
+margin-bottom: 0px;
+padding: 20px 0px 20px 0px;
+text-align: center;
+background-color: black;
+font-size: 50px;
+
+}
+
+body {
+    font-family: raleway,serif;
+    background-color: black;
+}
+
+.section-caracteristicas {
+
+    background-color: rgba(30, 26, 19, 1);
+padding: 0;
+opacity: 0,98;
+top: 1141px;
+left: 0px;
+height: 348px;
+}
+.section-caracteristicas h2 {
+text-align: center;
+font-size: 40px;
+font: normal normal medium 40px/47px Raleway;
+letter-spacing: 0px;
+}
+
+.separador {
+    display: flex; 
+justify-content: center;
+
+
+}
+.caracteristicas {
+width: 70%;
+text-align: center;
+font-size: 20px;
+padding-top: 40px;
+}
+
+
+.parrafo-iguana {
+    display: flex;
+    background-color: black;
+    padding: 90px;
+    text-align: justify;
+    align-items: center;
+    justify-content: space-evenly;
+       } 
+
+footer {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 40px;
+}
+.galeria-iguana {
+    display:flex;
+       
+}
+.galeria-iguana img {
+    width: 446px;
+    height: 300px;
+    
+}
+h2 {
+    padding-top: 20px;
+}
+.parrafo-iguana img {
+    width: 70%;
+    
+
+}
+.bloque {
+        width: 49%;
+    text-align: center;
+
+
+}
